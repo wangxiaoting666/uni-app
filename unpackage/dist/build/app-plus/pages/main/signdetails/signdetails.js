@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"uni-list{ margin-top: ",[0,130],"; }\n.",[1],"centent{ margin-top: 40px; }\n.",[1],"cu-card\x3e.",[1],"cu-item { margin: 3px 14px; }\n",],undefined,{path:"./pages/main/signdetails/signdetails.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/main/signdetails/signdetails.wxml') } }));

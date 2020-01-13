@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"qiun-charts { width: ",[0,750],"; height: ",[0,500],"; background-color: #FFFFFF; }\n.",[1],"charts { width: ",[0,750],"; height: ",[0,500],"; background-color: #FFFFFF; }\n.",[1],"padding-sm { text-align: center; }\n",],undefined,{path:"./pages/main/tabbar-4/tabbar-4.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/main/tabbar-4/tabbar-4.wxml') } }));

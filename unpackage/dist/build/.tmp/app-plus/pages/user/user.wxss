@@ -1,0 +1,77 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* 布局 */
+.flex-item {
+      
+        height: 480rpx;
+        text-align: center;
+        
+        background: #1C2A86;
+}
+.name{
+       font-size: 40rpx;
+	   height: 25px;
+}
+.manager{
+        color: #8F8F90;
+}
+.loginout,.primary{
+         background-color:  #9E3116 ;
+         margin: 100rpx   20rpx;
+		 color: #fff;
+}
+	
+

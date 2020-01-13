@@ -1,0 +1,22 @@
+
+page {
+		height: auto;
+		min-height: 100%;
+}
+.uni-padding-wrap {
+    width: 360px;
+}
+.uni-card {
+		box-shadow: none;
+}
+.uni-list:after {
+		height: 0;
+}
+.uni-list:before {
+		height: 0;
+}
+.uni-media-list-logo uni-image {
+	    
+	    border-radius: 20px;
+}
+

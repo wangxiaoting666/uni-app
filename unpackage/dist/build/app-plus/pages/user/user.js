@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"flex-item { height: ",[0,480],"; text-align: center; background: #1C2A86; }\n.",[1],"name{ font-size: ",[0,40],"; height: 25px; }\n.",[1],"manager{ color: #8F8F90; }\n.",[1],"loginout,.",[1],"primary{ background-color: #9E3116 ; margin: ",[0,100],"   ",[0,20],"; color: #fff; }\n",],undefined,{path:"./pages/user/user.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/user.wxml') } }));

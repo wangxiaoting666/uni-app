@@ -1,0 +1,68 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/login/login",
+    "pages/reg/reg",
+    "pages/pwd/pwd",
+    "pages/user/user",
+    "pages/main/tabbar-1/tabbar-1",
+    "pages/main/tabbar-2/tabbar-2",
+    "pages/main/tabbar-3/tabbar-3",
+    "pages/main/tabbar-4/tabbar-4",
+    "pages/main/tabbar-5/tabbar-5",
+    "pages/main/patchcard/patchcard",
+    "pages/main/websocket/websocket",
+    "pages/main/signdetails/signdetails"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarBackgroundColor": "#1C2A86",
+    "backgroundColor": "#fbf9fe"
+  },
+  "tabBar": {
+    "color": "#7a7e83",
+    "selectedColor": "#1C2A86",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/main/main",
+        "text": "首页",
+        "iconPath": "static/img/home.png",
+        "selectedIconPath": "static/img/home.png"
+      },
+      {
+        "pagePath": "pages/main/tabbar-2/tabbar-2",
+        "text": "考勤",
+        "iconPath": "static/img/sign.png",
+        "selectedIconPath": "static/img/sign.png"
+      },
+      {
+        "pagePath": "pages/main/tabbar-3/tabbar-3",
+        "text": "审批",
+        "iconPath": "static/img/shenpi.png",
+        "selectedIconPath": "static/img/shenpi.png"
+      },
+      {
+        "pagePath": "pages/main/tabbar-4/tabbar-4",
+        "text": "统计",
+        "iconPath": "static/img/echart.png",
+        "selectedIconPath": "static/img/echart.png"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "我的",
+        "iconPath": "static/img/user.png",
+        "selectedIconPath": "static/img/user.png"
+      }
+    ]
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "login",
+  "compilerVersion": "2.4.5",
+  "usingComponents": {}
+}

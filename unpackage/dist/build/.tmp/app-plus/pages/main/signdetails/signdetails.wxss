@@ -1,0 +1,11 @@
+
+.uni-list{
+	margin-top: 130rpx;
+}
+.centent{
+	margin-top: 40px;
+}
+.cu-card>.cu-item {
+    margin: 3px 14px;
+}
+

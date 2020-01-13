@@ -1,0 +1,2 @@
+setCssToHead(["body { height: auto; min-height: 100%; }\n.",[1],"uni-padding-wrap { width: 360px; }\n.",[1],"uni-card { box-shadow: none; }\n.",[1],"uni-list:after { height: 0; }\n.",[1],"uni-list:before { height: 0; }\n.",[1],"uni-media-list-logo wx-uni-image { border-radius: 20px; }\n",],undefined,{path:"./pages/main/tabbar-2/tabbar-2.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/main/tabbar-2/tabbar-2.wxml') } }));

@@ -1,0 +1,10 @@
+
+.cu-form-group .title {
+	min-width: calc(4em + 15px);
+}
+.btn-submit{
+     background-color:  #1C2A86;
+     margin: 100rpx   20rpx;
+	 color: #fff;
+}
+
